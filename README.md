@@ -1,3 +1,3 @@
 # c-code
 Some C Programs that I wrote during my grad...
-Feel free to use the programs, and to improve them also if you encounter a bug, or want to improve the code...🙂
+Feel free to use the programs, and to improve them also if you encounter a bug, or want to improve the codes...🙂
